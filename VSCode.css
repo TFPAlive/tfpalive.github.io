@@ -1,4 +1,4 @@
 .editor-group-watermark > .letterpress {
-    background-image: url("https://tfpalive.github.io/Icons/VSCode-Thick.png");
+    background-image: url("https://tfpalive.github.io/Icons/VSCode-Thick.png") !important;
     opacity: .75;
 }
