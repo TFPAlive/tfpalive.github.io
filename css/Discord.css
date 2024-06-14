@@ -455,36 +455,6 @@ textarea,
 .typeWindows_e41dab > .winButtonClose__6396d:hover {
   background: var(--danger-color);
 }
-.typeMacOS_cacc59 {
-  width: 70px;
-  height: 48px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: space-evenly;
-}
-.typeMacOS_cacc59.unfocused__66649 .macButton__0de05 {
-  background: rgba(255, 255, 255, 0.7);
-}
-.typeMacOS_cacc59 > .macButtons__40068 {
-  padding: 0 10px;
-}
-.typeMacOS_cacc59:before,
-.typeMacOS_cacc59:after {
-  margin: 0 2px;
-  font-size: 10px;
-  order: 1;
-}
-.typeMacOS_cacc59:before {
-  content: "CV";
-  color: var(--main-color);
-  font-weight: 700;
-  text-shadow: 0 0 3px;
-}
-.typeMacOS_cacc59:after {
-  content: "6.9.0";
-  color: rgba(255, 255, 255, 0.3);
-}
 .tabBar_d4764b {
   border-bottom: none;
 }
