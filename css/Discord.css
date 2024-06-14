@@ -100,7 +100,8 @@
     --popout-color: rgba(0, 0, 0, 0.8);
     --modal-color: rgba(0, 0, 0, 0.5);
     --font-primary: var(--main-font);
-}@keyframes cv-fade-in {
+}
+@keyframes cv-fade-in {
   from {
     opacity: 0;
   }
