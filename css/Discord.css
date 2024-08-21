@@ -1,102 +1,4 @@
-:root {
-  /* ACCENT COLORS */
-  --main-color: #2780e6; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
-  --hover-color: #1e63b3; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
-  --success-color: #43b581; /* success accent color (hex, rgb or hsl) [default: #43b581] */
-  --danger-color: #982929; /* danger accent color (hex, rgb or hsl) [default: #982929] */
-  --url-color: var(--main-color); /*The color of url links [default: var(--main-color)]*/
-
-  /* STATUS COLORS */
-  --online-color: #43b581; /* online status color (hex, rgb or hsl) [default: #43b581] */
-  --idle-color: #faa61a; /* idle status color (hex, rgb or hsl) [default: #faa61a] */
-  --dnd-color: #982929; /* dnd status color (hex, rgb or hsl) [default: #982929] */
-  --streaming-color: #593695; /* streaming status color (hex, rgb or hsl) [default: #593695] */
-  --offline-color: #808080; /* offline/invisible status color (hex, rgb or hsl) [default: #808080] */
-
-  /* GENERAL */
-  --main-font: gg sans, Helvetica Neue, Helvetica, Arial, sans-serif; /* main font for app (font must be installed) [default: gg sans, Helvetica Neue, Helvetica, Arial, sans-serif] */
-  --code-font: Consolas, Liberation Mono, Menlo, Courier, monospace; /* font for codeblocks (font must be installed) [default: Consolas, Liberation Mono, Menlo, Courier, monospace] */
-  --text-normal: rgb(220, 221, 222); /* color of default discord text */
-  --text-muted: rgb(114, 118, 125); /* color of default discord muted text (e.g.text found in input fields before typing).*/
-  --channels-width: 220px; /* channel list width (240px for Discord default) [default: 220px] */
-  --members-width: 240px; /* member list width [default: 240px] */
-
-  /* APP BACKGROUND */
-  --background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
-  --background-overlay: rgba(0, 0, 0, 0.6); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-  --background-image: url(https://clearvision.github.io/images/sapphire.jpg); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
-  --background-position: center; /* app background position [default: center] */
-  --background-size: cover; /* app background size [default: cover] */
-  --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
-  --background-attachment: fixed; /* app background attachment [default: fixed] */
-  --background-brightness: 100%; /* app background brightness (< 100% for darken, > 100% for lighten) [default: 100%] */
-  --background-contrast: 100%; /* app background contrast [default: 100%] */
-  --background-saturation: 100%; /* app background saturation [default: 100%] */
-  --background-invert: 0%; /* app background invert (0 - 100%)  [default: 0%] */
-  --background-grayscale: 0%; /* app background grayscale ( 0 - 100%) [default: 0%] */
-  --background-sepia: 0%; /* app background sepia (0 - 100%) [default: 0%] */
-  --background-blur: 0px; /* app background blur [default: 0px] */
-
-  /* HOME BUTTON ICON */
-  --home-icon: url(https://clearvision.github.io/icons/discord.svg); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
-  --home-position: center; /* home button icon position [default: center] */
-  --home-size: 40px; /* home button icon size [default: 40px] */
-
-  /* CHANNEL COLORS */
-  --channel-unread: var(--main-color); /* Unread Server channel color. [default:  var(--main-color)] THIS OVERRIDES YOUR MAIN COLOR*/
-  --channel-color: rgba(255, 255, 255, 0.3); /*Read Server channel color  [default: rgba(255,255,255,0.3);]*/
-  --channel-text-selected: #fff; /* Selected channel text color, CV default is #fff */
-  --muted-color: rgba(255, 255, 255, 0.1); /*Muted channel color  [default: rgba(255,255,255,0.1);]*/
-
-  /* MODAL BACKDROP */
-  --backdrop-overlay: rgba(0, 0, 0, 0.8); /* modal backdrop overlay color/gradient [default: rgba(0, 0, 0, 0.8)] */
-  --backdrop-image: var(--background-image); /* modal backdrop image (link must be HTTPS) [default: var(--background-image)] */
-  --backdrop-position: var(--background-position); /* modal backdrop position [default: var(--background-position)] */
-  --backdrop-size: var(--background-size); /* modal backdrop size [default: var(--background-size)] */
-  --backdrop-repeat: var(--background-repeat); /* modal backdrop repeat [default: var(--background-repeat)] */
-  --backdrop-attachment: var(--background-attachment); /* modal backdrop attachment [default: var(--background-attachment)] */
-  --backdrop-brightness: var(--background-brightness); /* modal backdrop brightness (< 100% for darken, > 100% for lighten) [default: var(--background-brightness)] */
-  --backdrop-contrast: var(--background-contrast); /* modal backdrop contrast [default: var(--background-contrast)] */
-  --backdrop-saturation: var(--background-saturation); /* modal backdrop saturation [default: var(--background-saturation)] */
-  --backdrop-invert: var(--background-invert); /* modal backdrop invert (0 - 100%)  [default: var(--background-invert)] */
-  --backdrop-grayscale: var(--background-grayscale); /* modal backdrop grayscale ( 0 - 100%) [default: var(--background-grayscale)] */
-  --backdrop-sepia: var(--background-sepia); /* modal backdrop sepia (0 - 100%) [default: var(--background-sepia)] */
-  --backdrop-blur: var(--background-blur); /* modal backdrop blur [default: var(--background-blur)] */
-
-  /* USER POPOUT BACKGROUND */
-  --user-popout-image: var(--background-image); /* app background image (link must be HTTPS) [default: var(--background-image)] */
-  --user-popout-position: var(--background-position); /* user popout background position [default: var(--background-position)] */
-  --user-popout-size: var(--background-size); /* user popout background size [default: var(--background-size)] */
-  --user-popout-repeat: var(--background-repeat); /* user popout background repeat [default: var(--background-repeat)] */
-  --user-popout-attachment: var(--background-attachment); /* user popout background attachment [default: var(--background-attachment)] */
-  --user-popout-brightness: var(--background-brightness); /* user popout background brightness (< 100% for darken, > 100% for lighten) [default: var(--background-brightness)] */
-  --user-popout-contrast: var(--background-contrast); /* user popout background contrast [default: var(--background-contrast)] */
-  --user-popout-saturation: var(--background-saturation); /* user popout background saturation [default: var(--background-saturation)] */
-  --user-popout-invert: var(--background-invert); /* user popout background invert (0 - 100%) [default: var(--background-invert)] */
-  --user-popout-grayscale: var(--background-grayscale); /* user popout background grayscale (0 - 100%) [default: var(--background-grayscale)] */
-  --user-popout-sepia: var(--background-sepia); /* user popout background sepia (0 - 100%) [default: var(--background-sepia)] */
-  --user-popout-blur: calc(var(--background-blur) + 3px); /* user popout background blur [default: calc(var(--background-blur) + 3px)] */
-  --user-popout-overlay: rgba(0, 0, 0, 0.6); /* user popout overlay color [default: rgba(0, 0, 0, .6)] */
-
-  /* USER MODAL BACKGROUND */
-  --user-modal-image: var(--background-image); /* app background image (link must be HTTPS) [default: var(--background-image)] */
-  --user-modal-position: var(--background-position); /* user modal background position [default: var(--background-position)] */
-  --user-modal-size: var(--background-size); /* user modal background size [default: var(--background-size)] */
-  --user-modal-repeat: var(--background-repeat); /* user modal background repeat [default: var(--background-repeat)] */
-  --user-modal-attachment: var(--background-attachment); /* user modal background attachment [default: var(--background-attachment)] */
-  --user-modal-brightness: var(--background-brightness); /* user modal background brightness (< 100% for darken, > 100% for lighten) [default: var(--background-brightness)] */
-  --user-modal-contrast: var(--background-contrast); /* user modal background contrast [default: var(--background-contrast)] */
-  --user-modal-saturation: var(--background-saturation); /* user modal background saturation [default: var(--background-saturation)] */
-  --user-modal-invert: var(--background-invert); /* user modal background invert (0 - 100%) [default: var(--background-invert)] */
-  --user-modal-grayscale: var(--background-grayscale); /* user modal background grayscale (0 - 100%) [default: var(--background-grayscale)] */
-  --user-modal-sepia: var(--background-sepia); /* user modal background sepia (0 - 100%) [default: var(--background-sepia)] */
-  --user-modal-blur: calc(var(--background-blur) + 3px); /* user modal background blur [default: calc(var(--background-blur) + 3px)] */
-
-  /* THEME BD COLORS */
-  --bd-blue: var(--main-color); /* betterdiscord main color [default: var(--main-color)] */
-  --bd-blue-hover: var(--hover-color); /* betterdiscord hover color [default: var(--hover-color)] */
-  --bd-blue-active: var(--hover-color); /* betterdiscord active color [default: var(--hover-color)] */
-}@keyframes cv-fade-in {
+@keyframes cv-fade-in {
   from {
     opacity: 0;
   }
@@ -455,6 +357,24 @@ textarea,
   padding-bottom: 2px;
   background: rgba(0, 0, 0, calc(var(--background-shading) * 0.6));
   box-shadow: 0 0 20px rgba(0, 0, 0, calc(var(--background-shading) * 0.6));
+}
+.typeWindows_a934d8 > .wordmark_a934d8 {
+  position: static;
+  margin-right: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 1;
+  pointer-events: none;
+  user-select: none;
+  order: 1;
+}
+.typeWindows_a934d8 > .wordmark_a934d8:before,
+.typeWindows_a934d8 > .wordmark_a934d8:after {
+  margin-left: 3px;
+  font-weight: 600;
+  white-space: nowrap;
+  order: 1;
 }
 .typeWindows_a934d8 > .wordmark_a934d8 > svg {
   filter: drop-shadow(0 0 5px var(--main-color));
@@ -3493,6 +3413,18 @@ textarea::-webkit-scrollbar {
   content: "CV Contributor";
 }
 .contents_f9f2ca
+  > img[src*="1141445806386319370"]
+  ~ .header_f9f2ca
+  > .headerText_f9f2ca
+  > .username_f9f2ca::after,
+.messageContent_f9f2ca
+  > img[src*="1141445806386319370"]
+  ~ .header_f9f2ca
+  > .headerText_f9f2ca
+  > .username_f9f2ca::after {
+  content: "CV Contributor";
+}
+.contents_f9f2ca
   > img[src*="262989909411758080"]
   ~ .header_f9f2ca
   > .headerText_f9f2ca
@@ -5248,6 +5180,7 @@ code {
 .theme-dark .root_f9a4c9 {
   background: rgba(0, 0, 0, 0.5);
   box-shadow: none;
+  backdrop-filter: blur(1.5px);
 }
 .theme-dark .modal_ed23b8 .footer_f9a4c9,
 .theme-dark .modal_ed23b8 .footer_f82cc7,
@@ -8768,16 +8701,13 @@ code {
 .badgeList_b69b77 {
   background-color: rgba(0, 0, 0, calc(var(--background-shading) * 0.4));
 }
-.phoneField_f26de7 {
+.phoneFieldPopout_ff761b {
   background-color: rgba(255, 255, 255, 0.07);
   border: none;
   box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.09);
 }
-.phoneField_f26de7:focus-within {
+.phoneFieldPopout_ff761b:focus-within {
   box-shadow: 0 0 2px 2px var(--main-color);
-}
-.phoneField_f26de7 .inputField_f26de7 {
-  background-color: rgba(0, 0, 0, 0);
 }
 .optionBox_f2f431 {
   background-color: rgba(0, 0, 0, 0);
@@ -8991,15 +8921,15 @@ code {
 .previewMessage_c31d36 {
   background-color: rgba(0, 0, 0, 0);
 }
-.theme-dark .micTest_e75a73 .container_e5cdf3 {
+.theme-dark .micTest_e75a73 .container_a1107d {
   background: var(--main-color) !important;
   mask-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='20' fill='yellow'%3E%3Cpath fill-rule='evenodd' d='M 4 2 C 2.895 2 2 2.895 2 4 L 2 16 C 2 17.54 3.667 18.502 5 17.732 C 5.619 17.375 6 16.715 6 16 L 6 4 C 6 2.895 5.105 2 4 2 Z'/%3E%3C/svg%3E");
   -webkit-mask-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='20' fill='yellow'%3E%3Cpath fill-rule='evenodd' d='M 4 2 C 2.895 2 2 2.895 2 4 L 2 16 C 2 17.54 3.667 18.502 5 17.732 C 5.619 17.375 6 16.715 6 16 L 6 4 C 6 2.895 5.105 2 4 2 Z'/%3E%3C/svg%3E");
 }
-.theme-dark .micTest_e75a73 .progress_e5cdf3 {
+.theme-dark .micTest_e75a73 .progress_a1107d {
   background-color: rgba(0, 0, 0, 0.7);
 }
-.theme-dark .micTest_e75a73 .notches_e5cdf3 rect {
+.theme-dark .micTest_e75a73 .notches_a1107d rect {
   fill: none;
 }
 .soundButtonSettingContainer_c801bb {
@@ -9685,4 +9615,89 @@ div#magane div.stickerWindow div.packs-toolbar {
 .BDFDB-tooltip > .tooltipRight_b6c360 {
   position: relative;
   margin-left: 10px;
+}
+button.button_df39bd.button_dd4f85.lookBlank_dd4f85.colorBrand_dd4f85.grow_dd4f85 {
+  background-color: rgba(0, 0, 0, 0.6);
+  border-radius: 10px;
+  height: 48px;
+  width: 48px;
+}
+div.container_ec8cd2.none_c49869.scrollerBase_c49869.fade_c49869 {
+  background-color: rgba(0, 0, 0, calc(var(--background-shading) * 0.6));
+}
+div.bannerBackground_e46a21 {
+  -webkit-mask: linear-gradient(to bottom, #000, transparent);
+  mask: linear-gradient(to bottom, #000, transparent);
+}
+div.stickyBanner_e46a21 {
+  display: none;
+}
+div.command_f37ac2 {
+  background-color: rgba(0, 0, 0, 0);
+}
+.commandContainer_f37ac2 {
+  background-color: rgba(0, 0, 0, calc(var(--background-shading) * 0.6));
+}
+div.overviewContainerNoVideo_e80fe9 {
+  background-color: rgba(0, 0, 0, calc(var(--background-shading) * 0.6));
+}
+div.overviewContainerWithVideo_e80fe9 {
+  background-color: rgba(0, 0, 0, calc(var(--background-shading) * 0.6));
+}
+div.container_e5da8b.containerBorderRadius_e5da8b.iconCard_e5da8b {
+  border-radius: 10px;
+}
+div.container_e5da8b.containerBorderRadius_e5da8b {
+  border-radius: 10px;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+div.container_e5da8b.containerBorderRadius_e5da8b:hover {
+  background-color: rgba(255, 255, 255, 0.07);
+}
+.container_e5da8b.rowContainer_e5da8b {
+  background-color: rgba(0, 0, 0, calc(var(--background-shading) * 0.3));
+}
+.container_e5da8b.rowContainer_e5da8b:hover {
+  background-color: rgba(255, 255, 255, 0.07);
+}
+div.clickable_b78bb6 {
+  background-color: rgba(0, 0, 0, calc(var(--background-shading) * 0.3));
+}
+div.clickable_b78bb6:hover {
+  background-color: rgba(255, 255, 255, 0.07);
+}
+div.container_c7c1c7 {
+  background-color: rgba(0, 0, 0, calc(var(--background-shading) * 0.4));
+}
+.sortDropdown_fd3eaf.button_dd4f85.lookFilled_dd4f85.sizeMin_dd4f85.grow_dd4f85 {
+  background-color: rgba(0, 0, 0, calc(var(--background-shading) * 0.6));
+}
+.app-launcher-element.container_cf2302:first-child {
+  background-color: rgba(0, 0, 0, 0);
+}
+.app-launcher-element.container_cf2302 {
+  background-color: rgba(0, 0, 0, 0.6);
+  padding-right: 10px;
+}
+div.container_fb1469 {
+  background-color: rgba(0, 0, 0, calc(var(--background-shading) * 0.3));
+}
+div.popoutList_da8701.phoneFieldPopout_ff761b.elevationBorderLow_ff8688 {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+div.credentialList_eaef52 {
+  background-color: rgba(0, 0, 0, calc(var(--background-shading) * 0.4));
+  border-radius: 4px;
+}
+div.name_d808b0 {
+  color: var(--text-normal);
+}
+button.button_dd4f85.lookBlank_dd4f85.colorTransparent_dd4f85.sizeIcon_dd4f85.grow_dd4f85 {
+  color: var(--text-normal);
+}
+div.credentialItem_eaef52.container_d808b0 {
+  border-radius: 0px;
+}
+div.credentialItem_eaef52.container_d808b0:first-of-type {
+  border: none;
 }
