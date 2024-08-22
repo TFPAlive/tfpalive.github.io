@@ -1,11 +1,12 @@
 // ==UserScript==
-// @name         Maimai XD
+// @name         Maimai XD for JP
 // @namespace    http://tampermonkey.net/
 // @version      2024-06-10
 // @description  Make your Maimai DX NET suits to your liking
 // @author       魔風茅野
+// @match        https://maimaidx.jp/maimai-mobile/*
 // @match        https://maimaidx-eng.com/maimai-mobile/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=maimaidx-eng.com
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=maimaidx.jp
 // @grant        none
 // ==/UserScript==
 var footer = document.querySelector('body > div.wrapper.main_wrapper.t_c > footer'),
@@ -23,17 +24,22 @@ var footer = document.querySelector('body > div.wrapper.main_wrapper.t_c > foote
 if (picture) {
     picture.src = 'https://tfpalive.github.io/images/imgs/Namiel_Org.png';
 }
+
 if (table) {
+    var table_executed = false;
     table.addEventListener('click', () => {
-        if (['maimaidx-eng.com', 'maimaidx.jp'].indexOf(document.location.host) >= 0 && (document.location.pathname.indexOf('/maimai-mobile/record/playlogDetail') >= 0)) {
-            document.body.appendChild(document.createElement('script')).src = 'https://spiritsunite.github.io/maimai-score-details/score-details.js'
+        if (['maimaidx-eng.com', 'maimaidx.jp'].indexOf(document.location.host) >= 0 && (document.location.pathname.indexOf('/maimai-mobile/record/playlogDetail') >= 0) && !table_executed) {
+            document.body.appendChild(document.createElement('script')).src = 'https://spiritsunite.github.io/maimai-score-details/score-details.js';
+            table_executed = true;
         }
     });
 }
 if (friends) {
+    var friends_executed = false;
     friends.addEventListener('click', () => {
-        if (['https://maimaidx.jp', 'https://maimaidx-eng.com'].indexOf(document.location.origin) >= 0) {
+        if (['https://maimaidx.jp', 'https://maimaidx-eng.com'].indexOf(document.location.origin) >= 0 && !friends_executed) {
             document.body.appendChild(document.createElement("script")).src = 'https://myjian.github.io/mai-tools/scripts/all-in-one.js?t=' + Math.floor(Date.now() / 60000);
+            friends_executed = true;
         }
     });
 }
@@ -54,10 +60,12 @@ if (footer) {
 }
 for (let i = 0; i < icon.length; i++) {
     if (icon[i]) {
+        var icon_executed = false;
         icon[i].src = 'https://tfpalive.github.io/images/icons/Chinatsu/UI_Card_Icon_101883.png';
         icon[i].addEventListener('click', () => {
-            if (['https://maimaidx.jp', 'https://maimaidx-eng.com'].indexOf(document.location.origin) >= 0) {
+            if (['https://maimaidx.jp', 'https://maimaidx-eng.com'].indexOf(document.location.origin) >= 0 && !icon_executed) {
                 document.body.appendChild(document.createElement("script")).src = 'https://myjian.github.io/mai-tools/scripts/all-in-one.js?t=' + Math.floor(Date.now() / 60000);
+                icon_executed = true;
             }
         });
     }
@@ -67,7 +75,7 @@ for (let i = 0; i < name.length; i++) {
         name[i].innerHTML = 'Ｃ３☆魔風茅野';
     }
 }
-if (document.URL == 'https://maimaidx-eng.com/maimai-mobile/home/') {
+if (document.URL == 'https://maimaidx.jp/maimai-mobile/home/' || document.URL == 'https://maimaidx-eng.com/maimai-mobile/home/') {
     let head = document.getElementsByTagName('HEAD')[0],
         style = document.createElement('style');
     style.type = 'text/css';
@@ -109,8 +117,7 @@ if (document.URL == 'https://maimaidx-eng.com/maimai-mobile/home/') {
   }
 }
 div.rating_block {
-  letter-spacing: 1.7px;
-  animation: counter 5s cubic-bezier(0, 0, 0, 1);
+  animation: counter 5s cubic-bezier(0.8, 0, 0, 0.8);
   counter-reset: num var(--num);
 }
 
