@@ -189,7 +189,6 @@ h3.rainbow {
 
 div.rating_block {
   letter-spacing: 1.9px;
-  top: 8px;
   right: 8px
 }
 
