@@ -72,7 +72,7 @@ for (let i = 0; i < icon.length; i++) {
 }
 for (let i = 0; i < name.length; i++) {
     if (name[i]) {
-        name[i].innerHTML = 'Ｃ３☆魔風茅野';
+        name[i].innerHTML = '<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Ｃ３☆魔風茅野</a>';
     }
 }
 if (document.URL == 'https://maimaidx.jp/maimai-mobile/home/' || document.URL == 'https://maimaidx-eng.com/maimai-mobile/home/') {
@@ -125,3 +125,76 @@ div.rating_block::after {
   content: counter(num);
 }`;
 };
+let head = document.getElementsByTagName('HEAD')[0],
+    css = document.createElement('style');
+    css.type = 'text/css';
+    head.appendChild(css);
+    css.innerHTML = `
+:root {
+  --background-color: #1d1d1d;
+  --font-family: 'Yu mincho';
+  --background-image: url('https://tfpalive.github.io/images/imgs/Gochiusa.png');
+}
+
+body {
+  background-color: var(--background-color);
+  background-image: var(--background-image);
+  font-family: var(--font-family);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+div,span,tbody,td,a,button,select {
+  font-family: var(--font-family);
+}
+
+svg {
+  visibility: hidden;
+}
+
+.menu, div.footer.w_480 {
+  background: none;
+}
+
+h3.rainbow.rainbow_text_animated {
+  padding: 25px 0;
+  margin: auto;
+}
+
+div.comment_block.break.f_l.f_12 {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+div.see_through_block.m_15.m_t_10.p_10.p_r.t_l.f_0 {
+  display: flex;
+  flex-direction: column;
+}
+
+img.w_120.m_t_10.f_r, div.comment_block.break.f_l.f_12.rainbow {
+  width: auto;
+}
+
+div.comment_block.break.f_l.f_12.rainbow {
+  min-height: 82.375px;
+}
+
+h3.rainbow {
+  padding: 10px;
+}
+
+div.rating_block {
+  letter-spacing: 1.9px;
+  top: 8px;
+  right: 8px
+}
+
+div.p_l_10.f_l.f_14 {
+  display: flex;
+  align-items: center;
+}`;
