@@ -24,7 +24,6 @@ var footer = document.querySelector('body > div.wrapper.main_wrapper.t_c > foote
 if (picture) {
     picture.src = 'https://tfpalive.github.io/images/imgs/Namiel_Org.png';
 }
-
 if (table) {
     var table_executed = false;
     table.addEventListener('click', () => {
@@ -72,10 +71,10 @@ for (let i = 0; i < icon.length; i++) {
 }
 for (let i = 0; i < name.length; i++) {
     if (name[i]) {
-        name[i].innerHTML = '<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Ｃ３☆魔風茅野</a>';
+        name[i].innerHTML = 'Ｃ３☆魔風茅野';
     }
 }
-if (document.URL == 'https://maimaidx.jp/maimai-mobile/home/' || document.URL == 'https://maimaidx-eng.com/maimai-mobile/home/') {
+if (document.URL == ['https://maimaidx.jp/maimai-mobile/home/','https://maimaidx-eng.com/maimai-mobile/home/']) {
     let head = document.getElementsByTagName('HEAD')[0],
         style = document.createElement('style');
     style.type = 'text/css';
