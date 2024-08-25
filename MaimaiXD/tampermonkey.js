@@ -74,7 +74,7 @@ for (let i = 0; i < name.length; i++) {
         name[i].innerHTML = 'Ｃ３☆魔風茅野';
     }
 }
-if (document.URL == ['https://maimaidx.jp/maimai-mobile/home/','https://maimaidx-eng.com/maimai-mobile/home/']) {
+if (document.URL == 'https://maimaidx.jp/maimai-mobile/home/' || document.URL == 'https://maimaidx-eng.com/maimai-mobile/home/') {
     let head = document.getElementsByTagName('HEAD')[0],
         style = document.createElement('style');
     style.type = 'text/css';
