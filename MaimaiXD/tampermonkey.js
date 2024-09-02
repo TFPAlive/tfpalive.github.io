@@ -9,7 +9,6 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=maimaidx.jp
 // @grant        none
 // ==/UserScript==
-window.open("https://maimaidx-eng.com/maimai-mobile/home/");
 var footer = document.querySelector('body > div.wrapper.main_wrapper.t_c > footer'),
     container = document.querySelector("body > div.wrapper.main_wrapper.t_c > div.container.p_10"),
     friends = document.querySelector("body > div.wrapper.main_wrapper.t_c > div:nth-child(3) > img"),
