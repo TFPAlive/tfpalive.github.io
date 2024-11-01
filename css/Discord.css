@@ -2440,8 +2440,8 @@ textarea::-webkit-scrollbar {
   width: 12px;
   margin-left: -6px;
   border-radius: 20px;
-  background: var(--server-unread);
-  box-shadow: 0 0 20px -1px var(--server-unread);
+  background: var(--main-color);
+  box-shadow: 0 0 20px -1px var(--main-color);
 }
 [style*="height: 8px"].item_c4cd66 {
   height: 10px !important;
