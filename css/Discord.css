@@ -2381,11 +2381,11 @@ textarea::-webkit-scrollbar {
   color: #fff;
 }
 .folder__48112 {
-  background-color: rgba(0, 0, 0, 0);
+  background-color: rgba(0, 0, 0, 0) !important;
   transition: all 0.3s ease-in-out;
 }
 .folder__48112.hover__48112 {
-  background-color: hsla(0, 0%, 100%, 0.1);
+  background-color: hsla(0, 0%, 100%, 0.1) !important;
 }
 .noIcon_f34534 {
   background: var(--card-color);
