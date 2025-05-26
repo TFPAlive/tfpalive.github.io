@@ -4,7 +4,7 @@ from pynput import keyboard
 pygame.init()
 pygame.mixer.init()
 
-DES = "Sound_for_Keyboard/sounds"
+DES = f"./sounds"
 
 # Map of keys to filenames
 key_to_filename = {
