@@ -1060,10 +1060,10 @@ html:not(.visual-refresh) .sidebar_c48ade:not(.hidden_c48ade) {
 .listeningAlong_e0cf27 .title_b6c092 {
   color: var(--main-color);
 }
-.privateChannels__35e86 {
+.privateChannels__e6b769 {
   background: rgba(0, 0, 0, 0) !important;
 }
-.privateChannels__35e86 .scroller__99e7c {
+.privateChannels__e6b769 .scroller__99e7c {
   background: rgba(0, 0, 0, 0) !important;
 }
 .privateChannelsHeaderContainer__99e7c {
@@ -1199,7 +1199,7 @@ html:not(.visual-refresh) .sidebar_c48ade:not(.hidden_c48ade) {
 .empty__99e7c {
   fill: hsla(0, 0%, 100%, 0.15);
 }
-.searchBar__35e86 .searchBarComponent__35e86 {
+.searchBar__e6b769 .searchBarComponent__e6b769 {
   background: hsla(0, 0%, 100%, 0.1);
   color: hsla(0, 0%, 100%, 0.3);
 }
@@ -9142,7 +9142,7 @@ div#magane div.stickerWindow div.packs-toolbar {
   background: rgba(0, 0, 0, calc(var(--background-shading) * 0.5));
 }
 .visual-refresh .container__2637a,
-.visual-refresh .privateChannels__35e86 {
+.visual-refresh .privateChannels__e6b769 {
   background: rgba(0, 0, 0, calc(var(--background-shading) * 0.3));
 }
 .visual-refresh-chat-input .channelTextArea__74017 {
