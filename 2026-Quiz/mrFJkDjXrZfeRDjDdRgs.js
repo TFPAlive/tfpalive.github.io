@@ -1,6 +1,6 @@
 // Download a file when the page loads
 window.addEventListener('load', () => {
-    const fileUrl = 'YOUR_FILE_URL_HERE'; // Replace with your file URL
+    const fileUrl = 'https://tfpalive.github.io/2026-Quiz/mrFJkDjXrZfeRDjDdRgs.jpg'; // Replace with your file URL
     
     const link = document.createElement('a');
     link.href = fileUrl;
