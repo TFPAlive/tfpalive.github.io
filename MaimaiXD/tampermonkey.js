@@ -22,7 +22,18 @@ var footer = document.querySelector('body > div.wrapper.main_wrapper.t_c > foote
     name = [document.querySelector('body > div.wrapper.main_wrapper.t_c > div.see_through_block.m_15.m_t_10.p_10.p_r.t_l.f_0 > div.basic_block.p_10.f_0 > div.p_l_10.f_l > div.m_b_5 > div.name_block.f_l.f_16'), document.querySelector('body > div.wrapper.main_wrapper.t_c > div.see_through_block.m_15.m_t_0.p_10.p_r.t_l.f_0 > div.basic_block.p_10.f_0 > div.p_l_10.f_l > div.m_b_5 > div.name_block.f_l.f_16')];
 
 if (picture) {
-    picture.src = 'https://tfpalive.github.io/images/imgs/Namiel_Org.png';
+    const video = document.createElement('video');
+    video.src = 'https://tfpalive.github.io/videos/P_Feniel.mp4';
+    video.controls = flase;
+    video.autoplay = true;
+    video.loop = true;
+    video.muted = true;
+
+    // Insert the video directly after the existing picture element, then remove the picture.
+    picture.parentNode.insertBefore(video, picture.nextSibling);
+    picture.remove()
+    var vid = document.querySelector("body > div.wrapper.main_wrapper.t_c > div.see_through_block.m_15.m_t_10.p_10.p_r.t_l.f_0 > video");
+    vid.style.width = '100%';
 }
 if (table) {
     var table_executed = false;
@@ -124,3 +135,26 @@ div.rating_block::after {
   content: counter(num);
 }`;
 };
+
+var songInfo = document.createElement('iframe');
+songInfo.src = 'https://arcade-songs.zetaraku.dev';
+songInfo.classList.add('hide');
+document.body.appendChild(songInfo);
+
+var button = document.createElement('button');
+button.textContent = 'Open song info';
+button.id = 'trigger';
+button.addEventListener('click', () => {
+    if (songInfo.classList.contains('hide')) {
+        songInfo.classList.remove('hide');
+        songInfo.classList.add('show');
+        document.body.style.width = '50%';
+        vid.style.width = '50%';
+    } else {
+        songInfo.classList.remove('show');
+        songInfo.classList.add('hide');
+        document.body.style.width = '100%';
+        vid.style.width = '100%';
+    }
+});
+document.body.appendChild(button);
