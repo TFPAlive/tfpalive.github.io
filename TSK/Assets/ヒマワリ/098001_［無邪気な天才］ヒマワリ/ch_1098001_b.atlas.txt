@@ -1,0 +1,12 @@
+ch_1098001_b.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.62
+bg_eff_B1_a
+bounds:1,184,620,284
+offsets:0,0,620,288
+bg_eff_B1_b
+bounds:1290,156,1207,725
+rotate:90
+bg_eff_B2
+bounds:1,454,1519,1561
