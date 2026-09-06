@@ -1,0 +1,6 @@
+ch_1115001_b.png
+size:512,512
+filter:Linear,Linear
+scale:0.51
+eff_B_latern_top1
+bounds:1,1,147,266

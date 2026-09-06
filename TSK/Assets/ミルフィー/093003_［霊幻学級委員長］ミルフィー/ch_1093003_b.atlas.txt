@@ -1,0 +1,15 @@
+ch_1093003_b.png
+size:1024,1024
+filter:Linear,Linear
+scale:0.5
+bubble
+bounds:1,314,682,291
+sakura_1
+bounds:1,521,524,378
+offsets:0,125,524,503
+sakura_2
+bounds:476,241,324,193
+rotate:180
+sakura_tree2
+bounds:511,317,484,388
+rotate:270

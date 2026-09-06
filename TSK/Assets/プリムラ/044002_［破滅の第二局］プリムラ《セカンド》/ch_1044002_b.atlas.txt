@@ -1,0 +1,13 @@
+ch_1044002_b.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.51
+eff_B_floor_wind
+bounds:1,106,631,198
+rotate:180
+eff_B_mirror_L
+bounds:1,1050,134,363
+eff_B_mirror_R
+bounds:51,1,522,162
+eff_B_twinkle_R2
+bounds:1,274,761,1139

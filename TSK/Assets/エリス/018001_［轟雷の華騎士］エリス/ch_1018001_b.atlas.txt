@@ -1,0 +1,17 @@
+ch_1018001_b.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.5
+b_eff_ring_b1
+bounds:1,1257,1306,223
+b_eff_ring_b2
+bounds:1,1482,1629,424
+b_eff_smoke_b1
+bounds:1,1688,218,461
+rotate:90
+b_eff_smoke_b2
+bounds:1309,1277,477,409
+rotate:90
+b_eff_smoke_b3
+bounds:1644,1510,396,262
+rotate:90

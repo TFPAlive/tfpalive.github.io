@@ -1,0 +1,9 @@
+ch_1158001_c.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.64
+BG_1
+bounds:409,164,1215,1099
+BG_2
+bounds:1,791,1382,833
+offsets:0,57,1382,890

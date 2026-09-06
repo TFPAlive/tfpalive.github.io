@@ -1,0 +1,14 @@
+ch_1060002_c.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.58
+bg
+bounds:1,885,1075,1014
+bg_score
+bounds:913,193,831,846
+rotate:90
+bg_smoke
+bounds:1074,1025,825,874
+offsets:29,59,854,933
+bg_stage
+bounds:1,267,918,622

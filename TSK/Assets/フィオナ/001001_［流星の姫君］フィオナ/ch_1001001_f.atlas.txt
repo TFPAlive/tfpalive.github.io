@@ -1,0 +1,7 @@
+ch_1001001_f.png
+size:1024,1024
+filter:Linear,Linear
+scale:0.6
+b_wepon1
+bounds:1,1,466,844
+offsets:0,0,475,844

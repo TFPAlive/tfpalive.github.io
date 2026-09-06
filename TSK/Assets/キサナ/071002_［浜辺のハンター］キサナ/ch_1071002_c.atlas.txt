@@ -1,0 +1,12 @@
+ch_1071002_c.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.67
+BG
+bounds:1,651,1334,1389
+bg_bridge
+bounds:1,126,1175,524
+rotate:180
+bg_yacht
+bounds:1178,227,862,943
+rotate:180

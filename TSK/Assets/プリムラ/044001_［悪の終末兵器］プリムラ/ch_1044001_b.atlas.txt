@@ -1,0 +1,13 @@
+ch_1044001_b.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.5
+bg_eff_water_B1
+bounds:1,90,583,364
+rotate:180
+bg_eff_water_B2
+bounds:1,126,881,617
+bg_eff_water_B3
+bounds:1,435,377,156
+magic_circle
+bounds:1,740,1087,348

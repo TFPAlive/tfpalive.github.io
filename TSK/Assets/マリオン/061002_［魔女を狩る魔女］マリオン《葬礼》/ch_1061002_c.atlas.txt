@@ -1,0 +1,11 @@
+ch_1061002_c.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.75
+04_dark_03
+bounds:1,1,636,611
+offsets:61,55,750,750
+ch_1061002_c
+bounds:491,614,488,1079
+ch_c_light
+bounds:1,614,488,1079

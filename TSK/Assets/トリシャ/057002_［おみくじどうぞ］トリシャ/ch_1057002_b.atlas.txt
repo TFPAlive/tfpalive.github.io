@@ -1,0 +1,13 @@
+ch_1057002_b.png
+size:1024,1024
+filter:Linear,Linear
+scale:0.5
+eff_B_branch1
+bounds:538,575,316,187
+eff_B_branch2
+bounds:122,568,300,204
+eff_B_branch3
+bounds:757,694,325,262
+rotate:90
+eff_B_lantern2
+bounds:1,714,755,305

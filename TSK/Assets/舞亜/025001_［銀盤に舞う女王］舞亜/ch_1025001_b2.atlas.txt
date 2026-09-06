@@ -1,0 +1,10 @@
+ch_1025001_b2.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.5
+b_effc_water_B1
+bounds:1,859,1923,1065
+offsets:42,80,1965,1145
+b_effc_water_B2
+bounds:79,480,1124,460
+rotate:180

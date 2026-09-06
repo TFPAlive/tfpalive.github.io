@@ -1,0 +1,11 @@
+ch_1074001_f.png
+size:1024,1024
+filter:Linear,Linear
+scale:0.5
+b_ef_F_seirei_1
+bounds:181,56,437,726
+offsets:0,0,437,727
+rotate:90
+b_ef_F_seirei_2
+bounds:1,105,611,802
+offsets:7,9,623,811

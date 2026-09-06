@@ -1,0 +1,6 @@
+ch_1119001_b2.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.5
+eff_B_smoke_purple_eff_B
+bounds:1,677,1143,467

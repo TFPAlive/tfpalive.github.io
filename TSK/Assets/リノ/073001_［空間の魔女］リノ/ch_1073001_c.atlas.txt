@@ -1,0 +1,12 @@
+ch_1073001_c.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.75
+04_dark_05
+bounds:1,1,655,696
+offsets:46,33,750,750
+rotate:90
+ch_1073001_c
+bounds:491,658,488,1079
+ch_c_light
+bounds:1,658,488,1079

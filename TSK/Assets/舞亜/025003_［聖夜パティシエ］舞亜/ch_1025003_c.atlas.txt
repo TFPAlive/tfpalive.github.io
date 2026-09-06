@@ -1,0 +1,10 @@
+ch_1025003_c.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.5
+BG_kitchin
+bounds:1,735,1236,1307
+offsets:3,0,1239,1307
+bg_ring
+bounds:247,1,1151,990
+rotate:90

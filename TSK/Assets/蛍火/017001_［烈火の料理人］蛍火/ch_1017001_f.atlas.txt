@@ -1,0 +1,64 @@
+ch_1017001_f.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.5
+eff_F_fire_1
+bounds:1208,781,455,635
+offsets:0,10,455,645
+eff_F_fire_10
+bounds:928,1323,288,382
+eff_F_fire_11
+bounds:1397,710,308,378
+rotate:180
+eff_F_fire_12
+bounds:737,1305,223,381
+offsets:8,22,232,403
+eff_F_fire_13
+bounds:640,1447,114,169
+eff_F_fire_14
+bounds:708,723,710,982
+eff_F_fire_2
+bounds:1040,1564,170,141
+eff_F_fire_3
+bounds:1,807,984,485
+offsets:0,0,997,487
+rotate:180
+eff_F_fire_4
+bounds:377,441,686,428
+rotate:180
+eff_F_fire_5
+bounds:936,739,418,289
+eff_F_fire_6
+bounds:325,971,480,532
+eff_F_fire_7
+bounds:653,922,208,315
+eff_F_fire_8
+bounds:307,957,84,267
+eff_F_fire_9
+bounds:1,856,748,849
+eff_F_kira_ R_1
+bounds:1,1497,362,208
+eff_F_kira_ R_2
+bounds:976,1414,168,192
+eff_F_kira_ R_3
+bounds:1,1376,163,175
+eff_F_kira_ R_4
+bounds:1145,517,369,351
+rotate:90
+eff_F_kira_ R_5
+bounds:86,660,174,145
+eff_F_kira_ R_6
+bounds:510,656,157,177
+eff_F_kira_L_1
+bounds:915,1153,156,214
+eff_F_kira_L_2
+bounds:832,1025,205,187
+offsets:297,237,502,1494
+eff_F_kira_L_3
+bounds:1,551,507,263
+eff_F_kira_L_4
+bounds:150,518,564,163
+eff_F_kira_L_5
+bounds:365,1597,136,108
+eff_F_kira_L_6
+bounds:884,465,157,172

@@ -1,0 +1,10 @@
+ch_1067002_c.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.5
+BG
+bounds:1,269,1378,1612
+eff_B_rainbow
+bounds:662,1,1417,1131
+offsets:0,23,1426,1154
+rotate:270

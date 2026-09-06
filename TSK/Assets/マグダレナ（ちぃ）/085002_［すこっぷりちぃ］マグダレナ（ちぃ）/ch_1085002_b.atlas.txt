@@ -1,0 +1,10 @@
+ch_1085002_b.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.55
+eff_B_flower_L
+bounds:1,868,775,562
+eff_B_flower_R
+bounds:764,846,666,584
+offsets:0,0,666,707
+rotate:180

@@ -1,0 +1,12 @@
+ch_1086002_c.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.5
+BG
+bounds:1,634,1250,1220
+BG_woods_L
+bounds:1252,60,602,1249
+rotate:180
+BG_woods_R
+bounds:1,5,627,1285
+rotate:90

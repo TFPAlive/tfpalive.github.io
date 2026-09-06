@@ -1,0 +1,9 @@
+ch_1055003_c.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.69
+BG
+bounds:1,836,1171,1192
+F_ribbon_2
+bounds:1066,369,914,962
+rotate:270

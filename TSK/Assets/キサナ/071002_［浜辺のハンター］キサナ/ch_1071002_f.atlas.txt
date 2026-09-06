@@ -1,0 +1,8 @@
+ch_1071002_f.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.67
+eff_L
+bounds:685,312,1357,1428
+eff_R
+bounds:1,199,1416,1843

@@ -1,0 +1,10 @@
+ch_1061002_b2.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.5
+eff_B_fire
+bounds:735,241,816,740
+eff_B_twinkle03
+bounds:352,194,381,470
+hand_B
+bounds:1,469,1733,1265

@@ -1,0 +1,10 @@
+ch_1157001_c.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.62
+BG_bigtorso
+bounds:1,773,1173,1274
+offsets:0,0,1173,1278
+BG_ribbon
+bounds:720,1,1143,1197
+rotate:180

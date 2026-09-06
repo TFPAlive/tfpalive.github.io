@@ -1,0 +1,16 @@
+ch_1004005_c.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.5
+bg
+bounds:1,958,1065,999
+eff_B_iwa_1
+bounds:1,911,252,76
+eff_B_iwa_2
+bounds:179,1,1134,316
+rotate:180
+eff_B_iwa_3
+bounds:1059,950,1007,323
+rotate:270
+eff_B_ribbon
+bounds:257,75,1057,966

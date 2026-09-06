@@ -1,0 +1,15 @@
+ch_1095002_b.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.55
+BG_branch_F
+bounds:1,1062,1492,980
+bg_lump1
+bounds:1332,1138,378,904
+rotate:180
+bg_lump1_light
+bounds:1,1775,283,267
+bg_lump2
+bounds:1670,1129,372,913
+bg_lump2_light
+bounds:1151,1304,277,266

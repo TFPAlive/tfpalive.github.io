@@ -1,0 +1,9 @@
+ch_1042002_b.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.75
+bg_b
+bounds:1,1,1048,1238
+bg_char
+bounds:1,207,801,407
+rotate:90

@@ -1,0 +1,15 @@
+ch_1052001_b.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.5
+bg_eff_dia_B1
+bounds:1,1251,38,94
+bg_eff_dia_B2
+bounds:217,1149,54,154
+bg_eff_flame_B1
+bounds:1,280,1023,1194
+bg_eff_flame_B2
+bounds:1,1155,233,319
+bg_eff_liquid_B
+bounds:520,1,959,565
+rotate:90

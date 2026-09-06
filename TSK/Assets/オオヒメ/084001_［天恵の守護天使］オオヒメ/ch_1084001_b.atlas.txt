@@ -1,0 +1,8 @@
+ch_1084001_b.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.57
+bg_eff_B3_1
+bounds:84,637,1453,415
+bg_eff_B4
+bounds:1,966,866,571

@@ -1,0 +1,9 @@
+ch_1155001_c.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.5
+BG_1
+bounds:1,620,1032,1340
+BG_2
+bounds:956,668,1004,1292
+rotate:180

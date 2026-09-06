@@ -1,0 +1,260 @@
+ch_1069002_m1.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.6
+b_arm_L
+bounds:1766,1709,338,248
+rotate:270
+b_arm_R1
+bounds:1306,231,230,158
+b_arm_R2
+bounds:1,362,176,220
+b_bag1
+bounds:688,1177,109,76
+b_bag2
+bounds:1264,1466,581,539
+rotate:90
+b_big wing_L1
+bounds:868,1016,482,415
+rotate:180
+b_big wing_L2
+bounds:1,1326,800,721
+b_big wing_R1
+bounds:1,852,332,408
+rotate:90
+b_big wing_R2
+bounds:1,1061,502,728
+rotate:270
+b_body1
+bounds:1847,1290,229,200
+rotate:90
+b_body2
+bounds:619,803,494,417
+rotate:180
+b_bust ribbon_C
+bounds:12,1566,92,37
+b_bust ribbon_L
+bounds:1541,1031,49,78
+b_bust ribbon_R
+bounds:1705,1910,69,80
+b_coat acc_L_bell
+bounds:191,1970,70,77
+b_coat acc_L_ribbon1
+bounds:1678,1988,94,59
+b_coat acc_L_ribbon2
+bounds:575,1827,54,65
+b_coat acc_R_bell
+bounds:740,1988,70,59
+b_coat acc_R_ribbon
+bounds:527,1303,83,80
+b_coat_L_B1
+bounds:966,1050,114,71
+b_coat_L_B2
+bounds:1131,820,467,355
+rotate:180
+b_coat_L_F1
+bounds:1564,567,187,182
+b_coat_L_F2
+bounds:1545,674,346,401
+rotate:270
+b_coat_R_F1
+bounds:1768,312,209,279
+rotate:270
+b_coat_R_F2
+bounds:992,310,311,239
+rotate:180
+b_coat_hood
+bounds:1153,1938,113,109
+b_crotch
+bounds:18,1925,171,122
+b_ear_R
+bounds:1805,1752,57,70
+b_foot_L1
+bounds:313,337,244,284
+rotate:90
+b_foot_L2
+bounds:599,320,260,382
+rotate:90
+b_foot_L_ribbon1
+bounds:1,1693,75,54
+b_foot_L_ribbon2
+bounds:1255,1957,66,90
+b_foot_R
+bounds:807,696,179,728
+rotate:90
+b_foot_R_ribbon1
+bounds:802,1344,82,54
+b_foot_R_ribbon2
+bounds:1,1981,73,66
+b_forehead acc
+bounds:1655,2009,18,38
+b_hair_F_C
+bounds:1952,1860,80,187
+b_hair_F_L1
+bounds:1946,1536,101,175
+b_hair_F_L2
+bounds:1889,170,158,173
+b_hair_F_L3
+bounds:1,212,239,251
+rotate:90
+b_hair_F_R1
+bounds:631,1750,76,180
+b_hair_F_R2
+bounds:855,89,118,246
+b_hair_F_R3
+bounds:1120,141,178,257
+rotate:90
+b_hair_L_acc1
+bounds:263,2011,32,36
+b_hair_L_acc2
+bounds:1097,2010,44,37
+b_hair_L_acc3
+bounds:761,1479,55,48
+b_hair_acc_flower
+bounds:704,214,146,146
+rotate:90
+b_hair_ahoge
+bounds:1446,1048,84,98
+b_hair_side_L
+bounds:1961,1085,86,208
+b_hair_side_R
+bounds:1300,1100,68,145
+b_hair_twin_L
+bounds:1353,1157,583,583
+rotate:180
+b_hair_twin_R
+bounds:142,686,373,505
+rotate:90
+b_halo
+bounds:425,583,326,218
+b_hand_L
+bounds:1224,1428,129,129
+b_hat
+bounds:1502,943,496,333
+rotate:180
+b_head
+bounds:1047,452,292,293
+rotate:270
+b_head_shadow
+bounds:493,285,235,170
+rotate:180
+b_neck mohu_B
+bounds:1,1575,169,91
+b_neck mohu_F
+bounds:791,1379,143,77
+b_skirt_B
+bounds:687,514,320,180
+rotate:180
+b_waist
+bounds:231,578,193,146
+b_wing_L1
+bounds:1624,348,423,300
+offsets:32,0,455,300
+rotate:180
+b_wing_L2
+bounds:1,454,375,376
+rotate:180
+b_wing_R1
+bounds:1275,463,428,279
+b_wing_R2
+bounds:1330,294,276,365
+rotate:270
+b_wreath halo
+bounds:704,1410,637,557
+rotate:90
+face_1_cheek
+bounds:1806,822,234,119
+face_1_eye
+bounds:1696,222,218,88
+face_1_eye blow
+bounds:1886,667,161,35
+face_1_hair
+bounds:1508,58,199,215
+rotate:180
+face_1_mouth
+bounds:1992,1816,52,43
+face_2_cheek
+bounds:508,1932,230,115
+face_3_cheek
+bounds:508,1932,230,115
+face_4_cheek
+bounds:508,1932,230,115
+face_5_cheek
+bounds:508,1932,230,115
+face_6_cheek
+bounds:508,1932,230,115
+face_7_cheek
+bounds:508,1932,230,115
+face_8_cheek
+bounds:508,1932,230,115
+face_9_cheek
+bounds:508,1932,230,115
+face_2_eye
+bounds:473,223,218,88
+face_9_eye
+bounds:473,223,218,88
+face_2_eye blow
+bounds:32,813,151,36
+face_2_hair
+bounds:28,61,199,215
+face_4_hair
+bounds:28,61,199,215
+face_6_hair
+bounds:28,61,199,215
+face_8_hair
+bounds:28,61,199,215
+face_9_hair
+bounds:28,61,199,215
+face_2_mouth
+bounds:71,2037,27,10
+face_3_eye
+bounds:931,247,218,88
+face_3_eye blow
+bounds:986,870,151,38
+face_3_hair
+bounds:887,49,196,213
+rotate:270
+face_3_mouth
+bounds:1323,2026,44,21
+face_4_eye
+bounds:799,458,189,54
+face_4_eye blow
+bounds:249,848,161,35
+face_6_eye blow
+bounds:249,848,161,35
+face_7_eye blow
+bounds:249,848,161,35
+face_4_mouth
+bounds:1605,2030,41,17
+face_9_mouth
+bounds:1605,2030,41,17
+face_5_eye
+bounds:253,247,218,88
+face_5_eye blow
+bounds:248,546,160,30
+face_5_hair
+bounds:1134,53,173,188
+face_5_mouth
+bounds:1804,1289,58,40
+face_6_eye
+bounds:228,192,191,53
+face_6_mouth
+bounds:1914,2034,37,13
+face_7_eye
+bounds:645,1255,203,69
+face_8_eye
+bounds:645,1255,203,69
+face_7_hair
+bounds:580,50,173,188
+face_7_mouth
+bounds:1937,1638,51,42
+face_8_eye blow
+bounds:1715,646,159,26
+face_8_mouth
+bounds:460,2016,45,31
+face_9_eye blow
+bounds:234,810,138,36
+face_9_hige
+bounds:526,1894,91,36
+face_nose
+bounds:809,2027,45,20

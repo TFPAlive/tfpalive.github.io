@@ -1,0 +1,9 @@
+ch_1024002_b.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.5
+eff_B_box
+bounds:1,98,924,285
+rotate:180
+eff_B_sori
+bounds:1,374,1035,662

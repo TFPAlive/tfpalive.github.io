@@ -1,0 +1,6 @@
+ch_1111003_b.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.5
+100/70/eff_B
+bounds:1,663,1642,980

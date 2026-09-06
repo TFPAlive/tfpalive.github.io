@@ -1,0 +1,8 @@
+ch_1032002_f.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.5
+eff_light
+bounds:1,423,1250,1162
+eff_star
+bounds:277,1,1166,880

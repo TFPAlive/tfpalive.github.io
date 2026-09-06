@@ -1,0 +1,6 @@
+ch_1051002_b2.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.5
+bg_eff_B_circle
+bounds:1,95,1457,1363

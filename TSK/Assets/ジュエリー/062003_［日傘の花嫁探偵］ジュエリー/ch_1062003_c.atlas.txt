@@ -1,0 +1,9 @@
+ch_1062003_c.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.5
+bg_sky
+bounds:1,698,1385,1321
+bg_stage
+bounds:1,1,1577,889
+rotate:180

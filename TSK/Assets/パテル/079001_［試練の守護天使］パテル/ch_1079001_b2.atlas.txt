@@ -1,0 +1,17 @@
+ch_1079001_b2.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.5
+eff_B_7
+bounds:1,668,704,880
+eff_B_8
+bounds:976,301,749,572
+rotate:90
+eff_B_9a
+bounds:1,259,1021,662
+offsets:45,0,1066,693
+rotate:180
+eff_B_9b
+bounds:739,611,937,582
+offsets:27,66,1066,693
+rotate:90

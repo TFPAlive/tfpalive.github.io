@@ -1,0 +1,9 @@
+ch_1051003_b.png
+size:1024,1024
+filter:Linear,Linear
+scale:0.5
+eff_F_poinsettia1
+bounds:651,424,437,372
+rotate:90
+eff_F_poinsettia2
+bounds:1,429,725,594

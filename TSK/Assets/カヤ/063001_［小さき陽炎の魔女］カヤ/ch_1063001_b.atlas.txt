@@ -1,0 +1,16 @@
+ch_1063001_b.png
+size:1024,1024
+filter:Linear,Linear
+scale:0.52
+eff_B_dragon_L1
+bounds:1,471,132,186
+eff_B_dragon_L2
+bounds:69,1,434,319
+eff_B_dragon_L3
+bounds:1,484,529,415
+eff_B_dragon_L4
+bounds:1,246,556,263
+rotate:270
+eff_B_dragon_L5
+bounds:1,85,397,550
+rotate:90

@@ -1,0 +1,13 @@
+ch_1009002_b.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.5
+bg_eff_B_laser_L1
+bounds:1,359,592,1451
+bg_eff_B_laser_L2
+bounds:1,1,610,1000
+bg_eff_B_laser_R1
+bounds:699,284,672,1167
+rotate:180
+bg_eff_B_laser_R2
+bounds:595,394,675,1416

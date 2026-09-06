@@ -1,0 +1,39 @@
+ch_1109001_b.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.52
+ch_eff_B_cross
+bounds:1,1178,1041,869
+ch_eff_B_roze red
+bounds:891,1509,571,506
+ch_eff_B_roze shower_L1
+bounds:1673,1805,313,242
+ch_eff_B_roze shower_L2
+bounds:1,1402,256,354
+ch_eff_B_roze shower_L3
+bounds:79,974,341,383
+ch_eff_B_roze shower_R1
+bounds:1,222,398,322
+ch_eff_B_roze shower_R2
+bounds:422,1034,262,375
+ch_eff_B_roze shower_R3
+bounds:754,1307,342,413
+ch_eff_B_roze yellow
+bounds:1521,267,526,444
+rotate:180
+ch_eff_B_slash1
+bounds:693,149,960,312
+rotate:180
+ch_eff_B_slash2
+bounds:311,1863,412,184
+ch_eff_B_slash3
+bounds:973,549,1074,1233
+rotate:180
+ch_eff_B_slash4
+bounds:1,628,1671,1419
+ch_eff_B_smoke1
+bounds:1,327,615,772
+rotate:270
+ch_eff_B_smoke2
+bounds:546,963,542,648
+rotate:270

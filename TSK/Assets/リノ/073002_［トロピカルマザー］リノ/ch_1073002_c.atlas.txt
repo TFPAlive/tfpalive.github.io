@@ -1,0 +1,6 @@
+ch_1073002_c.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.55
+sky
+bounds:1,115,1165,1051

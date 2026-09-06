@@ -1,0 +1,6 @@
+ch_1013002_c.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.5
+bg_eff_B_scaffold
+bounds:1,199,1777,1579

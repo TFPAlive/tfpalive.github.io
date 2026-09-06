@@ -1,0 +1,7 @@
+ch_1049002_c.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.5
+bg
+bounds:1,104,1645,1542
+offsets:0,16,1645,1558

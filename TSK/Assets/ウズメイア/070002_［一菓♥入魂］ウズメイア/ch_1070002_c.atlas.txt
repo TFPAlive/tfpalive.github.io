@@ -1,0 +1,8 @@
+ch_1070002_c.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.56
+bg_eff_B_heart_L
+bounds:1,398,1649,1252
+bg_eff_B_heart_R
+bounds:1,17,926,1472

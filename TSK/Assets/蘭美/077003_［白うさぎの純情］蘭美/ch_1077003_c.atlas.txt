@@ -1,0 +1,16 @@
+ch_1077003_c.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.5
+ef_bg_base
+bounds:1,322,1083,1130
+offsets:0,0,1125,1130
+ef_bg_bush
+bounds:891,374,939,434
+rotate:90
+ef_bg_rain
+bounds:847,972,605,480
+rotate:180
+ef_hamon
+bounds:1,750,351,82
+rotate:90

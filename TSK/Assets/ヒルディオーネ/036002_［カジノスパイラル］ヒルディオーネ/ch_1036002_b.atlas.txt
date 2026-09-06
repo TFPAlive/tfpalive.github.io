@@ -1,0 +1,17 @@
+ch_1036002_b.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.6
+BG_1_B
+bounds:1,965,1013,841
+BG_1_F
+bounds:919,1041,750,887
+rotate:270
+BG_1_chip
+bounds:1,447,633,408
+offsets:0,50,633,458
+rotate:180
+bg_eff_BG_1_B_light
+bounds:918,522,610,551
+bg_eff_BG_1_F_light
+bounds:1,765,998,295

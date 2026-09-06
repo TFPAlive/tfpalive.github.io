@@ -1,0 +1,6 @@
+ch_1070003_c.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.5
+BG
+bounds:1,25,1935,1911

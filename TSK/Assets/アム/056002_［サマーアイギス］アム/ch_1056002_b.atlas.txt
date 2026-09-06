@@ -1,0 +1,12 @@
+ch_1056002_b.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.75
+bg_eff_B_duck
+bounds:1,1355,182,201
+bg_eff_B_plant_B
+bounds:1,185,1555,622
+rotate:180
+bg_eff_B_umbrella
+bounds:1,665,1231,891
+offsets:0,0,1244,891

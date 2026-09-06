@@ -1,0 +1,6 @@
+ch_1092001_b.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.5
+bg_eff_smoke_B
+bounds:1,405,1774,1370

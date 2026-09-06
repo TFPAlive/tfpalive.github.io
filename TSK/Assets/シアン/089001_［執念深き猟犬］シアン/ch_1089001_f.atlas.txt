@@ -1,0 +1,12 @@
+ch_1089001_f.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.56
+b_eff_1
+bounds:1,167,345,301
+offsets:106,0,451,301
+b_eff_2_1
+bounds:1,551,1115,565
+b_eff_2_screen_1
+bounds:1,233,1054,568
+rotate:180

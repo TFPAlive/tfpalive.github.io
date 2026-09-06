@@ -1,0 +1,20 @@
+ch_1003004_f.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.5
+bg_eff_F_light dust_L1
+bounds:305,228,895,842
+bg_eff_F_light dust_L2
+bounds:1,1445,577,308
+bg_eff_F_light dust_R1
+bounds:699,976,748,654
+bg_eff_F_light dust_R2
+bounds:133,1648,102,105
+bg_eff_F_light line
+bounds:1,1,1533,1752
+bg_eff_F_light tama_C
+bounds:237,1698,51,55
+bg_eff_F_light tama_L1
+bounds:612,1225,526,153
+bg_eff_F_light tama_L2
+bounds:1,1633,130,120

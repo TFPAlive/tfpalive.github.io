@@ -1,0 +1,6 @@
+ch_1020002_c.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.57
+bg
+bounds:1,105,1324,1220

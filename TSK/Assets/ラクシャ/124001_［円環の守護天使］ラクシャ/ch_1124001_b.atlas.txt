@@ -1,0 +1,9 @@
+ch_1124001_b.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.5
+ch_eff_B_foot
+bounds:1,826,1620,795
+ch_eff_B_ring
+bounds:313,732,1276,429
+rotate:180

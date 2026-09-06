@@ -1,0 +1,16 @@
+ch_1064001_b.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.5
+bg_eff_B_liquid
+bounds:1,672,1058,418
+offsets:0,32,1058,450
+bg_eff_lance_1
+bounds:1,466,206,1089
+rotate:90
+bg_eff_lance_3
+bounds:1,199,265,997
+rotate:90
+bg_eff_lance_4
+bounds:53,22,322,946
+rotate:270

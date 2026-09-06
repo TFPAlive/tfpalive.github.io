@@ -1,0 +1,12 @@
+ch_1041001_b.png
+size:1024,1024
+filter:Linear,Linear
+scale:0.5
+bg_eff_impact_B1
+bounds:177,294,796,242
+bg_eff_impact_B2
+bounds:1,345,753,628
+bg_eff_smoke_BL
+bounds:1,143,557,77
+bg_eff_smoke_BR
+bounds:240,174,632,281

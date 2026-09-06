@@ -1,0 +1,30 @@
+ch_1109001_f.png
+size:1024,1024
+filter:Linear,Linear
+scale:0.52
+ch_eff_F_rose red_1
+bounds:734,124,229,206
+offsets:0,0,229,294
+rotate:180
+ch_eff_F_rose red_2
+bounds:787,327,236,145
+ch_eff_F_rose red_3
+bounds:496,439,304,584
+rotate:180
+ch_eff_F_rose red_4
+bounds:1,821,153,315
+rotate:90
+ch_eff_F_rose red_5
+bounds:733,442,255,270
+rotate:270
+ch_eff_F_rose yellow_1
+bounds:1,209,174,166
+ch_eff_F_rose yellow_2
+bounds:240,214,237,499
+rotate:90
+ch_eff_F_rose yellow_3
+bounds:1,475,559,548
+ch_eff_F_rose yellow_4
+bounds:153,313,446,327
+ch_eff_F_rose yellow_5
+bounds:802,699,136,324

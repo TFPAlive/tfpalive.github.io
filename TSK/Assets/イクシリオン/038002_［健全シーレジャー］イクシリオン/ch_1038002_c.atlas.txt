@@ -1,0 +1,6 @@
+ch_1038002_c.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.55
+Landscape
+bounds:1,1,1684,1703

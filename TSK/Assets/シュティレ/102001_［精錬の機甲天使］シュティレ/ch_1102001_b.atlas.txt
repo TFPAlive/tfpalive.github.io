@@ -1,0 +1,16 @@
+ch_1102001_b.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.6
+ch_eff_B_thunder1
+bounds:613,1,1049,470
+offsets:2,6,1054,482
+rotate:270
+ch_eff_B_thunder2
+bounds:1,337,744,996
+ch_eff_B_thunder3
+bounds:1,29,916,595
+rotate:270
+ch_eff_B_thunder4
+bounds:830,754,320,579
+offsets:2,2,326,602

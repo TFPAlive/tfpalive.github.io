@@ -1,0 +1,15 @@
+ch_1099001_f.png
+size:1024,1024
+filter:Linear,Linear
+scale:0.55
+bg_eff_kira_L1
+bounds:1,323,490,441
+bg_eff_kira_L2
+bounds:475,272,260,260
+rotate:180
+bg_eff_kira_L3
+bounds:1,610,118,154
+bg_eff_kira_R1
+bounds:350,376,299,377
+bg_eff_kira_R2
+bounds:559,412,205,311

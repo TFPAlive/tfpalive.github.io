@@ -1,0 +1,6 @@
+ch_1143001_b2.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.52
+BG_gate
+bounds:1,1,929,1114

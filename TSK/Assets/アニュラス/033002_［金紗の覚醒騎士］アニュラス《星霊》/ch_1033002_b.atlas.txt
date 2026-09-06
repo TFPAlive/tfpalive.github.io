@@ -1,0 +1,16 @@
+ch_1033002_b.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.57
+bg_eff_B_circle2
+bounds:1,1337,738,310
+bg_eff_B_flame_B
+bounds:476,977,316,403
+bg_eff_B_light_B1
+bounds:1,985,390,477
+rotate:90
+bg_eff_B_light_B2
+bounds:627,429,722,1020
+rotate:270
+bg_eff_B_slashing_B
+bounds:1,410,1518,1237

@@ -1,0 +1,15 @@
+ch_1007005_c.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.51
+BG_1
+bounds:354,1,1458,1103
+rotate:180
+BG_2
+bounds:1,170,779,224
+rotate:90
+BG_3
+bounds:706,559,1487,607
+rotate:270
+BG_4
+bounds:1,790,745,1256

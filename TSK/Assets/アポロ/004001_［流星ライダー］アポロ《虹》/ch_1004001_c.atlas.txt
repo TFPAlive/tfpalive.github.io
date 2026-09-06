@@ -1,0 +1,17 @@
+ch_1004001_c.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.5
+bg_eff_circle_B
+bounds:937,859,622,325
+rotate:90
+bg_eff_circle_F
+bounds:1227,911,570,254
+rotate:270
+bg_eff_circle_battle
+bounds:655,860,621,280
+rotate:90
+ch_1004001_c
+bounds:328,762,325,719
+ch_c_light
+bounds:1,762,325,719

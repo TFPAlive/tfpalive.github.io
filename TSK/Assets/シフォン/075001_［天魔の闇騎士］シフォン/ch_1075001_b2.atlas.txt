@@ -1,0 +1,6 @@
+ch_1075001_b2.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.5
+bg_eff
+bounds:1,524,1681,1158

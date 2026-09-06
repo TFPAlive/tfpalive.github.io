@@ -1,0 +1,43 @@
+ch_1016002_f.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.53
+ch_eff_F_green light_L1
+bounds:1,1448,424,449
+ch_eff_F_green light_L2
+bounds:1418,1282,321,265
+rotate:270
+ch_eff_F_green light_R1
+bounds:1655,1750,191,132
+ch_eff_F_green light_R2
+bounds:1501,1235,285,182
+ch_eff_F_green light_R3
+bounds:1547,1543,195,354
+ch_eff_F_green light_R4
+bounds:376,1580,148,95
+ch_eff_F_green light_R5
+bounds:1711,1280,186,267
+rotate:180
+ch_eff_F_star_L1
+bounds:1,1560,80,74
+ch_eff_F_star_L2
+bounds:1,1636,191,187
+rotate:90
+ch_eff_F_star_L3
+bounds:742,1269,306,628
+ch_eff_F_star_R1
+bounds:1194,1211,414,577
+ch_eff_F_star_R2
+bounds:1138,1356,511,163
+rotate:270
+ch_eff_F_star_R3
+bounds:960,1223,232,349
+ch_eff_F_star_R4
+bounds:1,1242,690,374
+rotate:180
+ch_eff_F_star_R5
+bounds:377,1205,268,402
+rotate:90
+ch_eff_F_star_R6
+bounds:438,1598,417,299
+rotate:180

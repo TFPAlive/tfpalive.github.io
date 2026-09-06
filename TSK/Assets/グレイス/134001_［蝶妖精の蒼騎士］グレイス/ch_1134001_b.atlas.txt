@@ -1,0 +1,16 @@
+ch_1134001_b.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.53
+BG
+bounds:1,602,1156,1257
+bg_eff_grass_1
+bounds:178,367,762,277
+bg_eff_grass_2
+bounds:279,174,646,231
+bg_eff_grass_3
+bounds:148,1,513,215
+rotate:180
+bg_eff_grass_4
+bounds:938,134,634,245
+rotate:270

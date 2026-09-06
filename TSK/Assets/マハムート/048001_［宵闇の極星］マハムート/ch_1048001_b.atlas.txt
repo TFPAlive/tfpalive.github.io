@@ -1,0 +1,17 @@
+ch_1048001_b.png
+size:1024,1024
+filter:Linear,Linear
+scale:0.5
+bg_eff_fire_B1
+bounds:1,442,364,249
+bg_eff_fire_B2
+bounds:108,351,492,340
+rotate:180
+bg_eff_fire_B3
+bounds:424,239,267,113
+rotate:180
+bg_eff_fire_B4
+bounds:535,354,337,153
+rotate:270
+bg_eff_fire_B5
+bounds:84,277,449,104

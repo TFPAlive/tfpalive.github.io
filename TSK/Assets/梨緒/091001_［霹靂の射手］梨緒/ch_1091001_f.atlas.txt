@@ -1,0 +1,9 @@
+ch_1091001_f.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.51
+bg_eff_F_wind_1
+bounds:445,503,880,580
+rotate:180
+bg_eff_F_wind_2
+bounds:1,619,1351,733

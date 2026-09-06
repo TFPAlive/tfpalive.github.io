@@ -1,0 +1,6 @@
+ch_1008004_b.png
+size:970,970
+filter:Linear,Linear
+scale:0.5
+ef_B_unicorn
+bounds:1,1,776,968
