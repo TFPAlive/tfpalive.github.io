@@ -1,8 +1,0 @@
-ch_1120001_b2.png
-size:2048,2048
-filter:Linear,Linear
-scale:0.56
-bg_eff_B2_a9
-bounds:2,121,136,271
-bg_eff_B4_a
-bounds:2,2,1322,1354

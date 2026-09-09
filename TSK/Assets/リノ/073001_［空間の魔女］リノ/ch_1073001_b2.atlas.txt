@@ -1,8 +1,0 @@
-ch_1073001_b2.png
-size:2048,2048
-filter:Linear,Linear
-scale:0.5
-eff_dark
-bounds:1,438,1539,1565
-eff_water3
-bounds:1,1,1076,435

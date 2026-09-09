@@ -1,9 +1,0 @@
-ch_1121001_f.png
-size:2048,2048
-filter:Linear,Linear
-scale:0.5
-bg_eff_F_EF
-bounds:1,1002,1750,749
-offsets:34,0,1805,797
-bg_eff_F_hahen
-bounds:467,888,1260,359

@@ -1,9 +1,0 @@
-ch_1078001_b2.png
-size:2048,2048
-filter:Linear,Linear
-scale:0.5
-b_eff_B_leaf_L
-bounds:1,443,887,820
-b_eff_B_leaf_R
-bounds:17,1,880,967
-rotate:180

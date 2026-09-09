@@ -1,6 +1,0 @@
-ch_1041002_c.png
-size:2048,2048
-filter:Linear,Linear
-scale:0.52
-bg
-bounds:1,25,1788,1764

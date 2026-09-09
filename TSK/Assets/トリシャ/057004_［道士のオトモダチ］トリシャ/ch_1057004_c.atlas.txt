@@ -1,9 +1,0 @@
-ch_1057004_c.png
-size:2048,2048
-filter:Linear,Linear
-scale:0.5
-BG
-bounds:1,467,1390,1410
-BG_moon
-bounds:814,1,562,526
-rotate:180

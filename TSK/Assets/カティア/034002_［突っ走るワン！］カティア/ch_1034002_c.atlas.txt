@@ -1,7 +1,0 @@
-ch_1034002_c.png
-size:2048,2048
-filter:Linear,Linear
-scale:0.71
-BG
-bounds:1,1,1706,1798
-offsets:39,41,1745,1839

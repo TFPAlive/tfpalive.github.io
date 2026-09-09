@@ -1,6 +1,0 @@
-ch_1024003_c.png
-size:2048,2048
-filter:Linear,Linear
-scale:0.52
-[bone]bg
-bounds:1,1,1367,1448

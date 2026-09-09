@@ -1,7 +1,0 @@
-ch_1051003_c.png
-size:2048,2048
-filter:Linear,Linear
-scale:0.5
-BG
-bounds:1,75,1399,1325
-offsets:0,69,1447,1394

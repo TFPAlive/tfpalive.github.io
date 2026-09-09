@@ -1,7 +1,0 @@
-ch_1008004_c.png
-size:1276,1276
-filter:Linear,Linear
-scale:0.5
-bg
-bounds:1,1,1112,1274
-offsets:205,0,1317,1502

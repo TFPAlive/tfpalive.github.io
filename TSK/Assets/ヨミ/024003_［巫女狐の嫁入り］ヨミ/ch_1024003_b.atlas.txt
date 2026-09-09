@@ -1,6 +1,0 @@
-ch_1024003_b.png
-size:256,256
-filter:Linear,Linear
-scale:0.52
-bg_eff_F_twinkle1
-bounds:1,2,169,168

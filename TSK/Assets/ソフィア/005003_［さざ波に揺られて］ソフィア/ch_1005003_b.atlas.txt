@@ -1,7 +1,0 @@
-ch_1005003_b.png
-size:1024,1024
-filter:Linear,Linear
-scale:0.7
-bg_bigball
-bounds:1,1,510,526
-offsets:0,10,510,536

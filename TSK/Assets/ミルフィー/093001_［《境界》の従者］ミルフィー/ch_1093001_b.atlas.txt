@@ -1,8 +1,0 @@
-ch_1093001_b.png
-size:2048,2048
-filter:Linear,Linear
-scale:0.5
-bg_eff_B_floor
-bounds:1,1361,940,344
-bg_eff_B_slash
-bounds:1,617,1704,1088

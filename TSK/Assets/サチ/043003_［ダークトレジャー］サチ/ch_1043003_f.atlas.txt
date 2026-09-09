@@ -1,6 +1,0 @@
-ch_1043003_f.png
-size:256,256
-filter:Linear,Linear
-scale:0.6
-eff_B_dust1
-bounds:2,2,139,211

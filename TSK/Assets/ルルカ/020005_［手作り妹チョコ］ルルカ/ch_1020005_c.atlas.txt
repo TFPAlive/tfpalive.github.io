@@ -1,6 +1,0 @@
-ch_1020005_c.png
-size:2048,2048
-filter:Linear,Linear
-scale:0.55
-bg
-bounds:1,203,1440,1238

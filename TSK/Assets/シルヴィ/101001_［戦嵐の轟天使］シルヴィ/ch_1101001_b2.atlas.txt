@@ -1,8 +1,0 @@
-ch_1101001_b2.png
-size:2048,2048
-filter:Linear,Linear
-scale:0.58
-eff_B_cloud_B2
-bounds:835,1,979,1383
-eff_B_night_sky
-bounds:1,318,1398,1572

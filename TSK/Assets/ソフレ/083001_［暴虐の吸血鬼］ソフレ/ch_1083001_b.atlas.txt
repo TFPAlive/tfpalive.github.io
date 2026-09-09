@@ -1,8 +1,0 @@
-ch_1083001_b.png
-size:1024,1024
-filter:Linear,Linear
-scale:0.5
-eff_B_cloud_flower
-bounds:125,645,683,163
-eff_B_cloud_s_R
-bounds:1,372,587,436

@@ -1,9 +1,0 @@
-ch_1057001_b2.png
-size:2048,2048
-filter:Linear,Linear
-scale:0.5
-bg_eff_ring
-bounds:33,1,1510,800
-rotate:180
-bg_eff_sky
-bounds:1,467,1440,1433

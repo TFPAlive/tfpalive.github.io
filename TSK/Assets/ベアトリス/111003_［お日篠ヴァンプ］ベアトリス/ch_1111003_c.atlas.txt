@@ -1,9 +1,0 @@
-ch_1111003_c.png
-size:2048,2048
-filter:Linear,Linear
-scale:0.5
-100/70/BG_boll
-bounds:1,1,1735,1909
-offsets:0,0,1960,1909
-100/70/BG_ladder
-bounds:1,198,180,296

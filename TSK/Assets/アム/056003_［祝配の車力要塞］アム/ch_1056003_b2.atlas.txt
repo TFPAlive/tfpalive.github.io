@@ -1,6 +1,0 @@
-ch_1056003_b2.png
-size:2048,2048
-filter:Linear,Linear
-scale:0.55
-eff_B2
-bounds:1,289,1480,1192

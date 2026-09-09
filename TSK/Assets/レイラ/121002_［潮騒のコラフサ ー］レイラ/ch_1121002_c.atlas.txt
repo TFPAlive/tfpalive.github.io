@@ -1,7 +1,0 @@
-ch_1121002_c.png
-size:2048,2048
-filter:Linear,Linear
-scale:0.55
-BG
-bounds:1,87,1735,1649
-offsets:86,0,1821,1649

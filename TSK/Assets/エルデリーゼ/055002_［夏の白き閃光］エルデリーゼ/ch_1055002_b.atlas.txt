@@ -1,9 +1,0 @@
-ch_1055002_b.png
-size:2048,2048
-filter:Linear,Linear
-scale:0.56
-BG_F
-bounds:1,1199,958,553
-BG_eff
-bounds:883,1175,577,869
-rotate:270

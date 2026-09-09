@@ -1,8 +1,0 @@
-ch_1100001_b.png
-size:2048,2048
-filter:Linear,Linear
-scale:0.5
-bg_eff_B_fire
-bounds:1,861,1077,273
-bg_eff_B_heart
-bounds:1,1,1320,1387

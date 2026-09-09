@@ -1,8 +1,0 @@
-ch_1118002_f.png
-size:512,512
-filter:Linear,Linear
-scale:0.5
-BG_kirakira_1
-bounds:275,281,223,217
-BG_kirakira_6
-bounds:1,292,272,206

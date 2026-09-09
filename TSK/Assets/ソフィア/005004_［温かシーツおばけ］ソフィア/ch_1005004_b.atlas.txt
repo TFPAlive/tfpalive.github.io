@@ -1,9 +1,0 @@
-ch_1005004_b.png
-size:1024,1024
-filter:Linear,Linear
-scale:0.55
-BG_ghost_F1
-bounds:1,488,527,420
-BG_ghost_F2
-bounds:481,510,398,427
-rotate:270

@@ -1,9 +1,0 @@
-ch_1030002_f.png
-size:2048,2048
-filter:Linear,Linear
-scale:0.5
-eff_F_Chair
-bounds:1,449,512,961
-eff_F_pigeon_L
-bounds:1,1,563,578
-rotate:180

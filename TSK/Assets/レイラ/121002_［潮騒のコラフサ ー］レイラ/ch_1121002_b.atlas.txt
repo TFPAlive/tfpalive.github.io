@@ -1,8 +1,0 @@
-ch_1121002_b.png
-size:2048,2048
-filter:Linear,Linear
-scale:0.55
-eff_B_flower
-bounds:1,127,1355,1307
-eff_B_shell
-bounds:652,1,644,413

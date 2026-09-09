@@ -1,6 +1,0 @@
-ch_1907001_b.png
-size:128,128
-filter:Linear,Linear
-scale:0.6
-eff_dummy
-bounds:1,8,99,92

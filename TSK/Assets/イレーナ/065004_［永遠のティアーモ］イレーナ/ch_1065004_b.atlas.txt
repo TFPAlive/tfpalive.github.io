@@ -1,6 +1,0 @@
-ch_1065004_b.png
-size:1024,1024
-filter:Linear,Linear
-scale:0.62
-100/30/chara_glow
-bounds:1,123,851,729

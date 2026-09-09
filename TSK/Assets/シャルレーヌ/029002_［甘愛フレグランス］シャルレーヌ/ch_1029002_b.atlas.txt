@@ -1,6 +1,0 @@
-ch_1029002_b.png
-size:2048,2048
-filter:Linear,Linear
-scale:0.62
-ch_eff_F_ribbon
-bounds:1,346,1353,1008
